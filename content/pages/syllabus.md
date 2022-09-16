@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, attendance, laptop policy, academic honesty, assignments,
+  grading, and the schedule of course topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

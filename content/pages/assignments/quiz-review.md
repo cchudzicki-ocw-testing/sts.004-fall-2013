@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of materials to review and study questions
+  for a quiz.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

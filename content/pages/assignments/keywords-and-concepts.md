@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of keywords and concepts covered for a
+  quiz.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

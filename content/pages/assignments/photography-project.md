@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on an assignment to prepare a presentation
+  on a type of photography that interests you.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
